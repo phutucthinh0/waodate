@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "978234176909",
+    "firebase_url": "https://waodate-e4e09.firebaseio.com",
+    "project_id": "waodate-e4e09",
+    "storage_bucket": "waodate-e4e09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978234176909:android:329ca4039dc14bf19c39c4",
+        "android_client_info": {
+          "package_name": "com.waodate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978234176909-7dojii5meoc48m605jh87e6sfft1mrpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJFVGDZqyh988xNpujW7uIknyFMG34QRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978234176909-7dojii5meoc48m605jh87e6sfft1mrpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

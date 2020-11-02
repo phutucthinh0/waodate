@@ -31,6 +31,7 @@ class App extends Component {
         </View>
         <Text style={styles.titleProblem}>Sự cố khi đăng nhập?</Text>
         <Text style={styles.titleDeclare}>Chúng tôi không đăng bất kỳ thông tin nào lên Facebook</Text>
+        
       </View >
     );
   }
